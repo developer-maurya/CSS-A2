@@ -1,0 +1,181 @@
+.chit{
+    background-image: url(food.jpg);
+    /* height:2000px ; */
+    border: 5px solid yellow;
+}
+
+
+.chit1{
+    background-color: rgb(6, 206, 6);
+    color: white;
+    width: 390px;
+    height: 80px;
+    font-size: 25px;
+    border: 10px solid red;
+    border-radius: 35px;
+    font-weight: bolder;
+    margin:30px 00px 100px 4px;
+    padding: 10px 0px 50px 10px;
+    font-style: italic;
+    padding-left: 20px;
+    
+    }
+.chit2{
+    border: 5px solid red;
+    font-style: italic;
+    background-color: black;
+    color: white;
+    width: 250px;
+    height: 5px;
+    font-weight: bold;
+    border-radius: 25px;
+
+    margin: -229px 10px 50px 440px;
+    padding: 20px 40px 50px 100px;
+
+
+}
+.chit3{
+    border:10px solid red;
+    font-style: italic;
+    background-color: rgb(18, 184, 18);
+    color: white;
+    width: 400px;
+    height: px;
+    /* font-size: large; */
+    font-weight: bolder;
+    font-size:20px ;
+    border-radius: 35px;
+    margin-left: 850px;
+    margin-top: -165px;
+    text-align: center;
+    padding-right: 25px;
+}
+.chit4{
+    border: 5px dashed red;
+    background-color: antiquewhite;
+    width: 400px;
+    height: 650px;
+    color: rgb(221, 3, 3);
+    font-weight: bolder;
+    text-align: center;
+    margin-left: 440px;
+    
+
+}
+.chit5{
+    border: 2px solid rgb(236, 3, 3);
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: rgb(223, 6, 6);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+    margin-top:-500px;
+}
+.chit10{
+    border: 2px solid rgb(236, 3, 3);
+    width: 400px;
+    height: 350px;
+    border-radius: 50%;
+    background-color: rgb(12, 211, 45);
+    text-align: center;
+    padding-top: 50px;
+    font-size: 20px;
+    margin-top:-400px;
+    margin-left: 900px;
+}
+.chit6{
+    border: 5px solid red;
+    width: 300px;
+    background-color: rgb(14, 1, 1);
+    color: aliceblue;
+    text-align: center;
+    margin-left: 500px ;
+    margin-top:100px ;
+    border-radius: 25px;
+}
+.chit7{
+    border: 2px solid green;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 25px;
+    color: blue;
+    margin-top: 30px;
+    margin-left: 50px;
+ 
+
+}
+#chit1{
+    padding-left: 90px;
+}
+h1{
+    text-align: center;
+}
+.chit8{
+    
+        border: 2px solid green;
+        width: 250px;
+        height: 250px;
+        background-color: aqua;
+        border-radius: 25px;
+        color: blue;
+        margin-left: 500px;
+        margin-top:-250px ;
+        margin-top: ;
+        
+}
+#chit2{
+    padding-left: 80px;
+}
+.chit9{
+    border: 2px solid green;
+        width: 250px;
+        height: 250px;
+        background-color: aqua;
+        border-radius: 25px;
+        color: blue; 
+        margin-left: 1000px;
+        margin-top: -250px;
+}
+.chit11{
+    border: 2px solid green;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 25px;
+    color: blue; 
+    margin-left: 50px;
+}
+#chit4{
+ padding-left: 80px;
+}
+.chit12{
+    border: 2px solid green;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 25px;
+    color: blue;
+    margin-left: 500px;
+    margin-top:-250px ;
+    margin-top: ; 
+}
+#chit5{
+    padding-left: 80px;
+}
+.chit13{
+    border: 2px solid green;
+    width: 250px;
+    height: 250px;
+    background-color: aqua;
+    border-radius: 25px;
+    color: blue; 
+    margin-left: 1000px;
+    margin-top: -250px;
+}
+#chit6{
+    padding-left: 80px;
+}
